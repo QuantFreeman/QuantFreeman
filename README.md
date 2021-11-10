@@ -19,7 +19,7 @@ I'm taking on a new project currently in which I'm learning Javascript & Node.js
 
 I'm continuing the read widely and learn about the state of the art in machine & deep learning, I'm eager to get a sense of where the line is between needing ML vs DL in order to deploy efficient and meaningful solutions.
 
-I'm looking to mature my data workflow by learning PySpark (yay for more Pandas:panda_face:) and Databricks! If you have any resources to share please send them my way.
+I'm looking to mature my data workflow by learning PySpark (more Pandas:panda_face:) and Databricks! If you have any resources to share please send them my way.
 
 ### Thanks for stopping by!
 I'll be active here if you wanna keep up with my work please feel free to watch this space, I'm open to collaborate if you have a project to discuss please feel free to reach me at QuantFreeman@gmail.com
